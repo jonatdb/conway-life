@@ -40,6 +40,3 @@ class Spillebrett:
         naboeliste = []
 
 
-
-brett = Spillebrett(10,10)
-brett.tegnBrett()
